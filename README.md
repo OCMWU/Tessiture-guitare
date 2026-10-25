@@ -1,2 +1,2 @@
-# Tessiture-guitare
-Fichier Calc Openoffice expliquant la tessiture d'une guitare
+# Bibliothèques Open Calc Music Write Up
+Fichiers Calc Openoffice nécessaires à l'écriture de partitions musicales.
